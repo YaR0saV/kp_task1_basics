@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vladr\\RiderProjects\\kp_task1\\kp_task1\\kp_task1.csproj": {}
+    "D:\\Компиляторы\\Visual studio code\\KP1_Git\\kp_task1\\kp_task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vladr\\RiderProjects\\kp_task1\\kp_task1\\kp_task1.csproj": {
+    "D:\\Компиляторы\\Visual studio code\\KP1_Git\\kp_task1\\kp_task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladr\\RiderProjects\\kp_task1\\kp_task1\\kp_task1.csproj",
+        "projectUniqueName": "D:\\Компиляторы\\Visual studio code\\KP1_Git\\kp_task1\\kp_task1.csproj",
         "projectName": "kp_task1",
-        "projectPath": "C:\\Users\\vladr\\RiderProjects\\kp_task1\\kp_task1\\kp_task1.csproj",
-        "packagesPath": "C:\\Users\\vladr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladr\\RiderProjects\\kp_task1\\kp_task1\\obj\\",
+        "projectPath": "D:\\Компиляторы\\Visual studio code\\KP1_Git\\kp_task1\\kp_task1.csproj",
+        "packagesPath": "C:\\Users\\Yaroslav\\.nuget\\packages\\",
+        "outputPath": "D:\\Компиляторы\\Visual studio code\\KP1_Git\\kp_task1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vladr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yaroslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
